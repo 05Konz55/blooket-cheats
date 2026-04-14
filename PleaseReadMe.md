@@ -20,7 +20,7 @@ LEGAL DISCLAIMER AND COPYRIGHT
 
 RISKY USAGE DISCLAIMER:
 
-By using this software and programable code you agree that Fishyy Creations is NOT respocible for any damages. Using this hacking software is risky and everyone should aknowledge that. Using this software can invoke the following actions on you:
+By using this software and programable code you agree that Fishyy Creations is NOT responsable for any damages. Using this hacking software is risky and everyone should aknowledge that. Using this software can invoke the following actions on you:
 - Blooket Account Bans
 - Blooket IP Bans
 - Blooket Legal Actions (such as lawsuits and cease and desist letters)
