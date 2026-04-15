@@ -1,9 +1,10 @@
-# FISHY CREATIONS - BLOOKET HACKS SUITE - GNU General Public License 3.0
+# 05KONZ CREATIONS - BLOOKET HACKS SUITE - GNU General Public License 3.0
 
 Welcome and thanks for having interest in my project! If you come across this project, lucky you!
-This project is all about making blooket hacks custom made by me and my co-creator Glitz!
+This project is all about making blooket hacks custom made by me and my assistant dev and admin Glitz!
 There are hacks and exploits here for everyone! Without the needed hassle of downloading extra trash software.
-We have hacks for the 3 base game mode so far: Gold Rush, Crypto Hack, and Fishing Frenzy!
+We have hacks for the Cafe, Crypto Hack, Dino, Factory, Fishing Frenzy, Gold Rush, Monster Brawl, and Tower of Doom Gamemodes.
+We also have different little quaility of life global misc cheats to make things cooler and better.
 There are also some extra hacks not exactly tied to a gamemode like "Unlock All Blooks" or "Set Money".
 There are some important disclaimers in this doucment so make sure that you read the whole thing!
 
