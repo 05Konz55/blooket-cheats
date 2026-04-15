@@ -1,7 +1,7 @@
 /**
  * @license AGPL-3.0
  * Blooket Cheats
- * Copyright (C) 2023-Present Fishyy's Creations
+ * Copyright (C) 2023-Present 05Konz Creations
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published
  * by the Free Software Foundation, either version 3 of the License, or
@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
- * Source: https://github.com/FishyyYT/blooket-hacks-suite founder@oneai.dev
+ * Source: https://github.com/05Konz55/blooket-cheats glixzzysayshi@gmail.com
  * Source: https://github.com/Blooket-Council/Blooket-Cheats 05konz994@gmail.com
 */
 
