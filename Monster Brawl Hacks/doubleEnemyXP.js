@@ -28,7 +28,7 @@
         document.body.append(iframe);
     }
     /* By CryptoDude3 */
-    if (window.fetch.call.toString() == 'function call() { [native code] }') {
+    if (window.fetch.call.toString() == 'function call() { [active code] }') {
         const call = window.fetch.call;
         window.fetch.call = function () {
             if (!arguments[1].includes("s.blooket.com/rc")) return call.apply(this, arguments);
