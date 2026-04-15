@@ -17,7 +17,7 @@ LEGAL DISCLAIMER AND COPYRIGHT
   COPYRIGHT INFORMATION:
   This workspace and all contents within it is protected under United States Federal Digital Millennium Copyright Act (DMCA) and protected
   under the GNU General Public License 3.0. This copyright license states that distrabution and modification of this software is allowed
-  under applicable law. However, you must give credit to the original copyright holder (Fishyy and Glitz). All Rights Reserved to FishyyYT    and Glitz.
+  under applicable law. However, you must give credit to the original copyright holder (05Konz and Glitz). All Rights Reserved to 05Konz55  and Glitz.
 
 RISKY USAGE DISCLAIMER:
 
@@ -28,4 +28,11 @@ By using this software and programable code you agree that Fishyy Creations is N
 - School or Work Punishments
 
 BY USING THIS SOFTWARE YOU AGREE TO THE ABOVE
+
+CREDITS AND AFFIRMATIONS:
+05Konz - Project Owner and Lead Developer
+Glixzzy - Project Adnim and Assistant Developer
+Special thanks to projects on GitLab for some of the backend scripts
+Link to some scripts: https://gitlab.com/blooket/blooket-cheats/-/blob/main/cheats/gui.js?ref_type=heads
+
 Enjoy using our software!
