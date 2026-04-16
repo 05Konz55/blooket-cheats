@@ -13,7 +13,7 @@
  * GNU Affero General Public License for more details.
  * 
  * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
  * Source: https://github.com/FishyyYT/blooket-hacks-suite founder@oneai.dev
  * Source: https://github.com/Blooket-Council/Blooket-Cheats 05konz994@gmail.com
