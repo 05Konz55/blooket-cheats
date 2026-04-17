@@ -31,7 +31,7 @@ BY USING THIS SOFTWARE YOU AGREE TO THE ABOVE
 
 CREDITS AND AFFIRMATIONS:
 05Konz - Project Owner and Lead Developer
-Glixzzy - Project Adnim and Assistant Developer
+Glixzzy - Project Admin and Assistant Developer
 Special thanks to projects on GitLab for some of the backend scripts
 Link to some scripts: https://gitlab.com/blooket/blooket-cheats/-/blob/main/cheats/gui.js?ref_type=heads
 
