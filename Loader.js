@@ -1,4 +1,4 @@
-/** To run the cheats you need to run this script. Please refer to the PleaseReadMe.md for additional information and legal disclaimers.
+/** To run the cheats you need to run the script in runscript.md. Please refer to the PleaseReadMe.md for additional information and legal disclaimers.
 * To run this script. Copy and paste all the code below into your search bar. Type "javascript:" before pasting the script.
 * COPY AND PASTE THE SCRIPT IN run-script.md in the main branch.
 * I would strongly suggest saving a bookmark to these cheats.
